@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SmoothSandstone2-1
 - 👀 I’m interested in unblocking fnf mods that my school blocked
 - 🌱 I’m currently learning databases + bootstrap 
-- 💞️ I’m looking to collaborate on removing/bypassing a website called GoGuardian
+- 💞️ I’m looking to removing/bypassing a website called GoGuardian
 - 📫 How to reach me through sound waves produced by one's vocal chords 
 
 <!---
